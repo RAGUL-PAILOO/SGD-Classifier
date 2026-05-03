@@ -96,25 +96,3 @@ print("\nClassification Report:\n", report_df.round(2))
 
 ## Result:
 Thus, the program to implement the prediction of the Iris species using SGD Classifier is written and verified using Python programming.
-
-## Algorithm
-1. 
-2. 
-3. 
-4. 
-
-## Program:
-```
-/*
-Program to implement the prediction of iris species using SGD Classifier.
-Developed by: 
-RegisterNumber:  
-*/
-```
-
-## Output:
-![prediction of iris species using SGD Classifier](sam.png)
-
-
-## Result:
-Thus, the program to implement the prediction of the Iris species using SGD Classifier is written and verified using Python programming.
